@@ -1,4 +1,7 @@
-# Ishaant nandu [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp,apple,rust,arduino)](https://skillicons.dev)
+# Ishaant nandu 
+***
+
+[![My Skills](https://skillicons.dev/icons?i=astro,js,html,css,python,pycharm,apple,bash,rust,arduino,raspberrypi,webstorm)](https://skillicons.dev)
 
 Hi I'm Ishaant, main website is [ishaant.com](https://ishaant.com/)
 
